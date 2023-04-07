@@ -12,4 +12,6 @@ func main() {
 
 	fmt.Println(m1.Format("2006-01-02 15:04:05"))
 
+	fmt.Print("Hello, time!")
+
 }

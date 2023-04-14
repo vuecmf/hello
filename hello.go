@@ -22,7 +22,7 @@ func main() {
 
 	fmt.Println(txt)
 
-	fmt.Println("test v2!")
+	fmt.Println("test v2.1!")
 
 
 }
